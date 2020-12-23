@@ -30,7 +30,7 @@ const settings = {
               "/tag/japan/"
             ],
             [
-              "About Us",
+              "About Usss",
               "/about-us/"
             ]
           ],
