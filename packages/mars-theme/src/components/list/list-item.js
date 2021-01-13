@@ -1,5 +1,6 @@
 import React from "react";
 import { connect, styled } from "frontity";
+import { Button } from '@devinle/component-test/dist';
 import Link from "../link";
 import FeaturedMedia from "../featured-media";
 
@@ -48,6 +49,7 @@ const Item = ({ state, item }) => {
       {item.excerpt && (
         <Excerpt dangerouslySetInnerHTML={{ __html: item.excerpt.rendered }} />
       )}
+      <Button primary label="Button" />
     </article>
   );
 };
