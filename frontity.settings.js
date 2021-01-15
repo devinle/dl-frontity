@@ -16,22 +16,6 @@ const settings = {
             [
               "Home",
               "/"
-            ],
-            [
-              "Nature",
-              "/category/nature/"
-            ],
-            [
-              "Travel",
-              "/category/travel/"
-            ],
-            [
-              "Japan",
-              "/tag/japan/"
-            ],
-            [
-              "About Usss",
-              "/about-us/"
             ]
           ],
           "featured": {
@@ -45,7 +29,7 @@ const settings = {
       "name": "@frontity/wp-source",
       "state": {
         "source": {
-          "url": "https://test.frontity.org"
+          "url": "http://wpengine-atlas.test/"
         }
       }
     },
